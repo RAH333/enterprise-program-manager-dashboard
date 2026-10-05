@@ -1,0 +1,6 @@
+Project_ID,Project_Name,Department,Status,Budget_Allocated,Budget_Spent,Milestones_Total,Milestones_Completed,Risk_Level,Last_Review_Date
+P001,EV Powertrain COE,Engineering,In Progress,500000,320000,10,7,Medium,2026-09-15
+P002,Plant Automation,Manufacturing,In Progress,750000,610000,12,11,High,2026-09-28
+P003,Supplier Onboarding,Sourcing,Completed,150000,145000,5,5,Low,2026-08-30
+P004,Facility Expansion,Facilities,Delayed,1200000,450000,15,4,High,2026-10-01
+P005,HR Digitization,HR,In Progress,200000,800000,8,6,Low,2026-09-20
