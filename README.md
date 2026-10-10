@@ -1,3 +1,5 @@
+![Enterprise Program Management & COE Analytics Dashboard](assets/epmd.jpg)
+
 # enterprise-program-manager-dashboard
 
 Enterprise Program Management & COE Analytics Dashboard. 
