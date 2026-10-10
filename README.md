@@ -19,9 +19,19 @@ An interactive, data-driven PMO tracking tool designed for managing cross-functi
 
 ## How to Run Locally
 1. Clone this repo.
-2. Install dependencies: `pip install -r requirements.txt`
-3. Launch the dashboard: `streamlit run src/app.py`
-4. 
+2. Install dependencies:
+   
+```
+   pip install -r requirements.txt
+```
+
+4. Launch the dashboard:
+   
+```
+   streamlit run src/app.py
+```
+
+6. 
 
 ```
 enterprise-program-manager-dashboard/
