@@ -19,19 +19,20 @@ An interactive, data-driven PMO tracking tool designed for managing cross-functi
 
 ## How to Run Locally
 1. Clone this repo.
+```
+git clone https://github.com/RAH333/enterprise-program-manager-dashboard.git
+```
+
 2. Install dependencies:
-   
 ```
    pip install -r requirements.txt
 ```
 
-4. Launch the dashboard:
+3. Launch the dashboard:
    
 ```
    streamlit run src/app.py
 ```
-
-6. 
 
 ```
 enterprise-program-manager-dashboard/
